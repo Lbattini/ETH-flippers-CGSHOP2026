@@ -1,0 +1,1550 @@
+{"instances":[
+  {
+    "instance_uid": "woc-225-tsplib-71b5a5ca",
+    "lower_bound": 0,
+    "upper_bound": 65,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_72/woc-225-tsplib-71b5a5ca.solution.json"
+  },
+  {
+    "instance_uid": "rirs-500-75-9322678f",
+    "lower_bound": 0,
+    "upper_bound": 747,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_78/rirs-500-75-9322678f.solution.json"
+  },
+  {
+    "instance_uid": "woc-75-tsplib-43f8ca86",
+    "lower_bound": 30,
+    "upper_bound": 30,
+    "initial_path": "./scriptOutputs/satSolutions_104/woc-75-tsplib-43f8ca86.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_4_40_2",
+    "lower_bound": 6,
+    "upper_bound": 6,
+    "initial_path": "./scriptOutputs/satSolutions_275/random_instance_4_40_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-220-tsplib-864789d7",
+    "lower_bound": 40,
+    "upper_bound": 40,
+    "initial_path": "./scriptOutputs/satSolutions_70/woc-220-tsplib-864789d7.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_837_40_10",
+    "lower_bound": 33,
+    "upper_bound": 33,
+    "initial_path": "./scriptOutputs/satSolutions_164/random_instance_837_40_10.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_459_320_3",
+    "lower_bound": 13,
+    "upper_bound": 13,
+    "initial_path": "./scriptOutputs/currentBest/random_instance_459_320_3.solution.json"
+  },
+  {
+    "instance_uid": "woc-175-tsplib-fec4c7fe",
+    "lower_bound": 26,
+    "upper_bound": 26,
+    "initial_path": "./scriptOutputs/satSolutions_38/woc-175-tsplib-fec4c7fe.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_197_320_10",
+    "lower_bound": 50,
+    "upper_bound": 50,
+    "initial_path": "./scriptOutputs/satSolutions_51/random_instance_197_320_10.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_887_80_2",
+    "lower_bound": 5,
+    "upper_bound": 5,
+    "initial_path": "./scriptOutputs/currentBest/random_instance_887_80_2.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_915_320_20",
+    "lower_bound": 0,
+    "upper_bound": 137,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_69/random_instance_915_320_20.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_826_320_20",
+    "lower_bound": 0,
+    "upper_bound": 153,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_72/random_instance_826_320_20.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_160_320_20",
+    "lower_bound": 65,
+    "upper_bound": 65,
+    "initial_path": "./scriptOutputs/satSolutions_81/random_instance_160_320_20.solution.json"
+  },
+  {
+    "instance_uid": "woc-170-tsplib-357a3de6",
+    "lower_bound": 19,
+    "upper_bound": 19,
+    "initial_path": "./scriptOutputs/satSolutions_38/woc-170-tsplib-357a3de6.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_337_40_2",
+    "lower_bound": 4,
+    "upper_bound": 4,
+    "initial_path": "./scriptOutputs/satSolutions_275/random_instance_337_40_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-110-tsplib-39ba065c",
+    "lower_bound": 30,
+    "upper_bound": 30,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_107/woc-110-tsplib-39ba065c.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_547_40_2",
+    "lower_bound": 5,
+    "upper_bound": 5,
+    "initial_path": "./scriptOutputs/satSolutions_275/random_instance_547_40_2.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_271_15_20",
+    "lower_bound": 50,
+    "upper_bound": 50,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_140/random_instance_271_15_20.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_420_40_2",
+    "lower_bound": 6,
+    "upper_bound": 6,
+    "initial_path": "./scriptOutputs/satSolutions_275/random_instance_420_40_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-250-tsplib-ef67652d",
+    "lower_bound": 31,
+    "upper_bound": 31,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-250-tsplib-ef67652d.solution.json"
+  },
+  {
+    "instance_uid": "woc-170-random-261629f3",
+    "lower_bound": 34,
+    "upper_bound": 34,
+    "initial_path": "./scriptOutputs/satSolutions_38/woc-170-random-261629f3.solution.json"
+  },
+  {
+    "instance_uid": "woc-230-tsplib-e1ba1619",
+    "lower_bound": 39,
+    "upper_bound": 39,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-230-tsplib-e1ba1619.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_683_40_10",
+    "lower_bound": 30,
+    "upper_bound": 30,
+    "initial_path": "./scriptOutputs/satSolutions_164/random_instance_683_40_10.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_34_320_2",
+    "lower_bound": 8,
+    "upper_bound": 8,
+    "initial_path": "./scriptOutputs/satSolutions_201/random_instance_34_320_2.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_982_320_10",
+    "lower_bound": 64,
+    "upper_bound": 64,
+    "initial_path": "./scriptOutputs/satSolutions_70/random_instance_982_320_10.solution.json"
+  },
+  {
+    "instance_uid": "woc-240-tsplib-d96d289b",
+    "lower_bound": 26,
+    "upper_bound": 26,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-240-tsplib-d96d289b.solution.json"
+  },
+  {
+    "instance_uid": "woc-185-tsplib-fb277a6a",
+    "lower_bound": 25,
+    "upper_bound": 25,
+    "initial_path": "./scriptOutputs/satSolutions_49/woc-185-tsplib-fb277a6a.solution.json"
+  },
+  {
+    "instance_uid": "woc-180-random-1c3d45cd",
+    "lower_bound": 34,
+    "upper_bound": 34,
+    "initial_path": "./scriptOutputs/satSolutions_38/woc-180-random-1c3d45cd.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_130_15_5",
+    "lower_bound": 9,
+    "upper_bound": 9,
+    "initial_path": "./scriptOutputs/satSolutions_270/random_instance_130_15_5.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_552_320_20",
+    "lower_bound": 114,
+    "upper_bound": 132,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_70/random_instance_552_320_20.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_192_15_2",
+    "lower_bound": 3,
+    "upper_bound": 3,
+    "initial_path": "./scriptOutputs/satSolutions_275/random_instance_192_15_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-230-tsplib-5d6e5c1d",
+    "lower_bound": 57,
+    "upper_bound": 63,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_67/woc-230-tsplib-5d6e5c1d.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_694_15_3",
+    "lower_bound": 5,
+    "upper_bound": 5,
+    "initial_path": "./scriptOutputs/satSolutions_270/random_instance_694_15_3.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_699_320_20",
+    "lower_bound": 51,
+    "upper_bound": 51,
+    "initial_path": "./scriptOutputs/satSolutions_80/random_instance_699_320_20.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_603_40_20",
+    "lower_bound": 78,
+    "upper_bound": 78,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_146/random_instance_603_40_20.solution.json"
+  },
+  {
+    "instance_uid": "woc-210-random-921f33b6",
+    "lower_bound": 23,
+    "upper_bound": 23,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-210-random-921f33b6.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_677_40_2",
+    "lower_bound": 6,
+    "upper_bound": 6,
+    "initial_path": "./scriptOutputs/satSolutions_275/random_instance_677_40_2.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_976_15_20",
+    "lower_bound": 51,
+    "upper_bound": 51,
+    "initial_path": "./scriptOutputs/currentBest/random_instance_976_15_20.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_168_80_5",
+    "lower_bound": 17,
+    "upper_bound": 17,
+    "initial_path": "./scriptOutputs/satSolutions_100/random_instance_168_80_5.solution.json"
+  },
+  {
+    "instance_uid": "woc-170-tsplib-2959d81d",
+    "lower_bound": 35,
+    "upper_bound": 35,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-170-tsplib-2959d81d.solution.json"
+  },
+  {
+    "instance_uid": "woc-110-tsplib-cf61d346",
+    "lower_bound": 43,
+    "upper_bound": 43,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_107/woc-110-tsplib-cf61d346.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_862_160_2",
+    "lower_bound": 7,
+    "upper_bound": 7,
+    "initial_path": "./scriptOutputs/currentBest/random_instance_862_160_2.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_579_80_3",
+    "lower_bound": 7,
+    "upper_bound": 7,
+    "initial_path": "./scriptOutputs/currentBest/random_instance_579_80_3.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_784_15_2",
+    "lower_bound": 3,
+    "upper_bound": 3,
+    "initial_path": "./scriptOutputs/satSolutions_275/random_instance_784_15_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-245-tsplib-1170b41d",
+    "lower_bound": 27,
+    "upper_bound": 27,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-245-tsplib-1170b41d.solution.json"
+  },
+  {
+    "instance_uid": "woc-130-tsplib-f38721ef",
+    "lower_bound": 30,
+    "upper_bound": 30,
+    "initial_path": "./scriptOutputs/satSolutions_34/woc-130-tsplib-f38721ef.solution.json"
+  },
+  {
+    "instance_uid": "woc-190-tsplib-5a761621",
+    "lower_bound": 57,
+    "upper_bound": 60,
+    "initial_path": "./scriptOutputs/currentBest/woc-190-tsplib-5a761621.solution.json"
+  },
+  {
+    "instance_uid": "woc-155-tsplib-16bd1a72",
+    "lower_bound": 36,
+    "upper_bound": 36,
+    "initial_path": "./scriptOutputs/satSolutions_49/woc-155-tsplib-16bd1a72_3_3_8_4_14_4.solution.json"
+  },
+  {
+    "instance_uid": "woc-160-tsplib-b2dc6d6b",
+    "lower_bound": 36,
+    "upper_bound": 36,
+    "initial_path": "./scriptOutputs/satSolutions_48/woc-160-tsplib-b2dc6d6b_10_5_11_10.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_453_320_5",
+    "lower_bound": 23,
+    "upper_bound": 23,
+    "initial_path": "./scriptOutputs/satSolutions_51/random_instance_453_320_5.solution.json"
+  },
+  {
+    "instance_uid": "woc-90-tsplib-8e18a238",
+    "lower_bound": 19,
+    "upper_bound": 19,
+    "initial_path": "./scriptOutputs/satSolutions_202/woc-90-tsplib-8e18a238.solution.json"
+  },
+  {
+    "instance_uid": "woc-160-random-80862a66",
+    "lower_bound": 33,
+    "upper_bound": 33,
+    "initial_path": "./scriptOutputs/satSolutions_38/woc-160-random-80862a66.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_960_160_2",
+    "lower_bound": 8,
+    "upper_bound": 8,
+    "initial_path": "./scriptOutputs/satSolutions_101/random_instance_960_160_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-220-tsplib-29e6860e",
+    "lower_bound": 0,
+    "upper_bound": 75,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_0/woc-220-tsplib-29e6860e.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_786_320_5",
+    "lower_bound": 26,
+    "upper_bound": 26,
+    "initial_path": "./scriptOutputs/satSolutions_51/random_instance_786_320_5.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_479_320_20",
+    "lower_bound": 0,
+    "upper_bound": 146,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_69/random_instance_479_320_20.solution.json"
+  },
+  {
+    "instance_uid": "woc-130-random-7a59d7ba",
+    "lower_bound": 33,
+    "upper_bound": 33,
+    "initial_path": "./scriptOutputs/satSolutions_34/woc-130-random-7a59d7ba.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_487_320_3",
+    "lower_bound": 13,
+    "upper_bound": 13,
+    "initial_path": "./scriptOutputs/satSolutions_49/random_instance_487_320_3.solution.json"
+  },
+  {
+    "instance_uid": "woc-60-random-36d4dade",
+    "lower_bound": 27,
+    "upper_bound": 27,
+    "initial_path": "./scriptOutputs/satSolutions_280/woc-60-random-36d4dade.solution.json"
+  },
+  {
+    "instance_uid": "woc-120-tsplib-f36876ed",
+    "lower_bound": 34,
+    "upper_bound": 34,
+    "initial_path": "./scriptOutputs/satSolutions_280/woc-120-tsplib-f36876ed.solution.json"
+  },
+  {
+    "instance_uid": "woc-45-tsplib-2ed43f71",
+    "lower_bound": 21,
+    "upper_bound": 21,
+    "initial_path": "./scriptOutputs/satSolutions_164/woc-45-tsplib-2ed43f71.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_783_80_2",
+    "lower_bound": 5,
+    "upper_bound": 5,
+    "initial_path": "./scriptOutputs/currentBest/random_instance_783_80_2.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_73_160_10",
+    "lower_bound": 40,
+    "upper_bound": 40,
+    "initial_path": "./scriptOutputs/satSolutions_38/random_instance_73_160_10.solution.json"
+  },
+  {
+    "instance_uid": "woc-45-tsplib-51f1d852",
+    "lower_bound": 20,
+    "upper_bound": 20,
+    "initial_path": "./scriptOutputs/satSolutions_164/woc-45-tsplib-51f1d852.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_36_80_3",
+    "lower_bound": 12,
+    "upper_bound": 12,
+    "initial_path": "./scriptOutputs/satSolutions_99/random_instance_36_80_3.solution.json"
+  },
+  {
+    "instance_uid": "woc-195-tsplib-4c2fd194",
+    "lower_bound": 53,
+    "upper_bound": 53,
+    "initial_path": "./scriptOutputs/satSolutions_71/woc-195-tsplib-4c2fd194.solution.json"
+  },
+  {
+    "instance_uid": "woc-250-tsplib-d0200f03",
+    "lower_bound": 31,
+    "upper_bound": 31,
+    "initial_path": "./scriptOutputs/satSolutions_70/woc-250-tsplib-d0200f03.solution.json"
+  },
+  {
+    "instance_uid": "woc-140-tsplib-44cfce74",
+    "lower_bound": 35,
+    "upper_bound": 35,
+    "initial_path": "./scriptOutputs/satSolutions_281/woc-140-tsplib-44cfce74.solution.json"
+  },
+  {
+    "instance_uid": "woc-205-tsplib-8058c7cb",
+    "lower_bound": 45,
+    "upper_bound": 45,
+    "initial_path": "./scriptOutputs/satSolutions_68/woc-205-tsplib-8058c7cb.solution.json"
+  },
+  {
+    "instance_uid": "woc-50-tsplib-887df108",
+    "lower_bound": 35,
+    "upper_bound": 35,
+    "initial_path": "./scriptOutputs/satSolutions_164/woc-50-tsplib-887df108.solution.json"
+  },
+  {
+    "instance_uid": "woc-200-tsplib-734409f1",
+    "lower_bound": 0,
+    "upper_bound": 56,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_67/woc-200-tsplib-734409f1.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_666_15_10",
+    "lower_bound": 26,
+    "upper_bound": 26,
+    "initial_path": "./scriptOutputs/satSolutions_164/random_instance_666_15_10.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_286_15_5",
+    "lower_bound": 13,
+    "upper_bound": 13,
+    "initial_path": "./scriptOutputs/satSolutions_270/random_instance_286_15_5.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_410_160_5",
+    "lower_bound": 19,
+    "upper_bound": 19,
+    "initial_path": "./scriptOutputs/satSolutions_281/random_instance_410_160_5.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_543_40_5",
+    "lower_bound": 15,
+    "upper_bound": 15,
+    "initial_path": "./scriptOutputs/satSolutions_270/random_instance_543_40_5.solution.json"
+  },
+  {
+    "instance_uid": "woc-110-random-e61dabe8",
+    "lower_bound": 20,
+    "upper_bound": 20,
+    "initial_path": "./scriptOutputs/satSolutions_34/woc-110-random-e61dabe8.solution.json"
+  },
+  {
+    "instance_uid": "woc-215-tsplib-e353fb9d",
+    "lower_bound": 62,
+    "upper_bound": 62,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_67/woc-215-tsplib-e353fb9d.solution.json"
+  },
+  {
+    "instance_uid": "woc-75-tsplib-1da38e08",
+    "lower_bound": 25,
+    "upper_bound": 25,
+    "initial_path": "./scriptOutputs/satSolutions_100/woc-75-tsplib-1da38e08.solution.json"
+  },
+  {
+    "instance_uid": "woc-90-random-5ab97996",
+    "lower_bound": 26,
+    "upper_bound": 26,
+    "initial_path": "./scriptOutputs/satSolutions_202/woc-90-random-5ab97996.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_757_15_5",
+    "lower_bound": 16,
+    "upper_bound": 16,
+    "initial_path": "./scriptOutputs/satSolutions_270/random_instance_757_15_5.solution.json"
+  },
+  {
+    "instance_uid": "woc-165-random-34b2e4be",
+    "lower_bound": 23,
+    "upper_bound": 23,
+    "initial_path": "./scriptOutputs/satSolutions_38/woc-165-random-34b2e4be.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_93_40_10",
+    "lower_bound": 38,
+    "upper_bound": 38,
+    "initial_path": "./scriptOutputs/satSolutions_164/random_instance_93_40_10.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_905_15_2",
+    "lower_bound": 4,
+    "upper_bound": 4,
+    "initial_path": "./scriptOutputs/satSolutions_275/random_instance_905_15_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-250-tsplib-aa939734",
+    "lower_bound": 32,
+    "upper_bound": 32,
+    "initial_path": "./scriptOutputs/satSolutions_70/woc-250-tsplib-aa939734.solution.json"
+  },
+  {
+    "instance_uid": "woc-155-tsplib-aac644b7",
+    "lower_bound": 45,
+    "upper_bound": 45,
+    "initial_path": "./scriptOutputs/satSolutions_48/woc-155-tsplib-aac644b7_10_9_5_10_11.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_90_320_5",
+    "lower_bound": 15,
+    "upper_bound": 15,
+    "initial_path": "./scriptOutputs/satSolutions_51/random_instance_90_320_5.solution.json"
+  },
+  {
+    "instance_uid": "woc-230-tsplib-32634ca5",
+    "lower_bound": 53,
+    "upper_bound": 53,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_0/woc-230-tsplib-32634ca5.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_188_40_10",
+    "lower_bound": 39,
+    "upper_bound": 39,
+    "initial_path": "./scriptOutputs/satSolutions_164/random_instance_188_40_10.solution.json"
+  },
+  {
+    "instance_uid": "woc-190-tsplib-c6022ffe",
+    "lower_bound": 29,
+    "upper_bound": 29,
+    "initial_path": "./scriptOutputs/satSolutions_44/woc-190-tsplib-c6022ffe_3_3_10_5_8.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_603_320_2",
+    "lower_bound": 7,
+    "upper_bound": 7,
+    "initial_path": "./scriptOutputs/satSolutions_201/random_instance_603_320_2.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_136_320_2",
+    "lower_bound": 6,
+    "upper_bound": 6,
+    "initial_path": "./scriptOutputs/satSolutions_201/random_instance_136_320_2.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_299_40_10",
+    "lower_bound": 30,
+    "upper_bound": 30,
+    "initial_path": "./scriptOutputs/satSolutions_164/random_instance_299_40_10.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_402_40_20",
+    "lower_bound": 76,
+    "upper_bound": 76,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_241/random_instance_402_40_20.solution.json"
+  },
+  {
+    "instance_uid": "woc-120-tsplib-1ac0c01d",
+    "lower_bound": 60,
+    "upper_bound": 60,
+    "initial_path": "./scriptOutputs/currentBest/woc-120-tsplib-1ac0c01d.solution.json"
+  },
+  {
+    "instance_uid": "woc-200-tsplib-6d0c0d51",
+    "lower_bound": 50,
+    "upper_bound": 50,
+    "initial_path": "./scriptOutputs/satSolutions_86/woc-200-tsplib-6d0c0d51.solution.json"
+  },
+  {
+    "instance_uid": "woc-245-tsplib-98234be6",
+    "lower_bound": 0,
+    "upper_bound": 49,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_67/woc-245-tsplib-98234be6.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_476_80_3",
+    "lower_bound": 12,
+    "upper_bound": 12,
+    "initial_path": "./scriptOutputs/satSolutions_99/random_instance_476_80_3.solution.json"
+  },
+  {
+    "instance_uid": "woc-185-random-a0e60a07",
+    "lower_bound": 23,
+    "upper_bound": 23,
+    "initial_path": "./scriptOutputs/currentBest/woc-185-random-a0e60a07_3_2_9_2_7.solution.json"
+  },
+  {
+    "instance_uid": "woc-235-tsplib-8c89c7cb",
+    "lower_bound": 36,
+    "upper_bound": 36,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-235-tsplib-8c89c7cb.solution.json"
+  },
+  {
+    "instance_uid": "woc-180-tsplib-26e893d1",
+    "lower_bound": 26,
+    "upper_bound": 26,
+    "initial_path": "./scriptOutputs/satSolutions_38/woc-180-tsplib-26e893d1.solution.json"
+  },
+  {
+    "instance_uid": "woc-60-tsplib-63f3f788",
+    "lower_bound": 30,
+    "upper_bound": 30,
+    "initial_path": "./scriptOutputs/satSolutions_201/woc-60-tsplib-63f3f788.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_792_80_5",
+    "lower_bound": 19,
+    "upper_bound": 19,
+    "initial_path": "./scriptOutputs/satSolutions_100/random_instance_792_80_5.solution.json"
+  },
+  {
+    "instance_uid": "woc-150-tsplib-7de836c1",
+    "lower_bound": 34,
+    "upper_bound": 34,
+    "initial_path": "./scriptOutputs/satSolutions_34/woc-150-tsplib-7de836c1.solution.json"
+  },
+  {
+    "instance_uid": "woc-70-tsplib-662c5dfb",
+    "lower_bound": 31,
+    "upper_bound": 31,
+    "initial_path": "./scriptOutputs/satSolutions_104/woc-70-tsplib-662c5dfb.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_840_160_20",
+    "lower_bound": 95,
+    "upper_bound": 95,
+    "initial_path": "./scriptOutputs/satSolutions_76/random_instance_840_160_20.solution.json"
+  },
+  {
+    "instance_uid": "woc-150-tsplib-d8064434",
+    "lower_bound": 34,
+    "upper_bound": 34,
+    "initial_path": "./scriptOutputs/satSolutions_281/woc-150-tsplib-d8064434.solution.json"
+  },
+  {
+    "instance_uid": "woc-80-tsplib-a0813030",
+    "lower_bound": 39,
+    "upper_bound": 39,
+    "initial_path": "./scriptOutputs/satSolutions_104/woc-80-tsplib-a0813030.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_689_160_2",
+    "lower_bound": 9,
+    "upper_bound": 9,
+    "initial_path": "./scriptOutputs/satSolutions_101/random_instance_689_160_2.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_422_320_10",
+    "lower_bound": 42,
+    "upper_bound": 42,
+    "initial_path": "./scriptOutputs/satSolutions_51/random_instance_422_320_10.solution.json"
+  },
+  {
+    "instance_uid": "woc-140-tsplib-07d5a295",
+    "lower_bound": 24,
+    "upper_bound": 24,
+    "initial_path": "./scriptOutputs/satSolutions_34/woc-140-tsplib-07d5a295.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_137_40_10",
+    "lower_bound": 31,
+    "upper_bound": 31,
+    "initial_path": "./scriptOutputs/satSolutions_164/random_instance_137_40_10.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_493_160_5",
+    "lower_bound": 21,
+    "upper_bound": 21,
+    "initial_path": "./scriptOutputs/satSolutions_38/random_instance_493_160_5.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_925_80_2",
+    "lower_bound": 7,
+    "upper_bound": 7,
+    "initial_path": "./scriptOutputs/currentBest/random_instance_925_80_2.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_224_15_20",
+    "lower_bound": 47,
+    "upper_bound": 47,
+    "initial_path": "./scriptOutputs/satSolutions_36/random_instance_224_15_20.solution.json"
+  },
+  {
+    "instance_uid": "woc-225-random-ac59d396",
+    "lower_bound": 28,
+    "upper_bound": 28,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-225-random-ac59d396.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_995_160_5",
+    "lower_bound": 22,
+    "upper_bound": 22,
+    "initial_path": "./scriptOutputs/satSolutions_281/random_instance_995_160_5.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_973_80_3",
+    "lower_bound": 9,
+    "upper_bound": 9,
+    "initial_path": "./scriptOutputs/satSolutions_99/random_instance_973_80_3.solution.json"
+  },
+  {
+    "instance_uid": "woc-235-tsplib-2d7d476c",
+    "lower_bound": 27,
+    "upper_bound": 27,
+    "initial_path": "./scriptOutputs/satSolutions_58/woc-235-tsplib-2d7d476c.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_42_15_2",
+    "lower_bound": 3,
+    "upper_bound": 3,
+    "initial_path": "./scriptOutputs/satSolutions_275/random_instance_42_15_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-185-tsplib-b8dd6b77",
+    "lower_bound": 0,
+    "upper_bound": 107,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_69/woc-185-tsplib-b8dd6b77.solution.json"
+  },
+  {
+    "instance_uid": "woc-100-tsplib-19003732",
+    "lower_bound": 27,
+    "upper_bound": 27,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_107/woc-100-tsplib-19003732.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_312_80_2",
+    "lower_bound": 6,
+    "upper_bound": 6,
+    "initial_path": "./scriptOutputs/currentBest/random_instance_312_80_2.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_966_40_2",
+    "lower_bound": 5,
+    "upper_bound": 5,
+    "initial_path": "./scriptOutputs/satSolutions_275/random_instance_966_40_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-215-tsplib-3826ebd3",
+    "lower_bound": 34,
+    "upper_bound": 34,
+    "initial_path": "./scriptOutputs/satSolutions_58/woc-215-tsplib-3826ebd3.solution.json"
+  },
+  {
+    "instance_uid": "woc-245-tsplib-34ed11a6",
+    "lower_bound": 26,
+    "upper_bound": 26,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-245-tsplib-34ed11a6.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_835_160_3",
+    "lower_bound": 13,
+    "upper_bound": 13,
+    "initial_path": "./scriptOutputs/satSolutions_199/random_instance_835_160_3.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_359_320_2",
+    "lower_bound": 11,
+    "upper_bound": 11,
+    "initial_path": "./scriptOutputs/satSolutions_201/random_instance_359_320_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-100-tsplib-ee8c7335",
+    "lower_bound": 29,
+    "upper_bound": 29,
+    "initial_path": "./scriptOutputs/satSolutions_202/woc-100-tsplib-ee8c7335.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_307_15_20",
+    "lower_bound": 54,
+    "upper_bound": 54,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_140/random_instance_307_15_20.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_49_15_2",
+    "lower_bound": 4,
+    "upper_bound": 4,
+    "initial_path": "./scriptOutputs/satSolutions_275/random_instance_49_15_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-150-random-d16123e7",
+    "lower_bound": 34,
+    "upper_bound": 34,
+    "initial_path": "./scriptOutputs/satSolutions_34/woc-150-random-d16123e7.solution.json"
+  },
+  {
+    "instance_uid": "woc-70-random-9a7d18d3",
+    "lower_bound": 19,
+    "upper_bound": 19,
+    "initial_path": "./scriptOutputs/satSolutions_100/woc-70-random-9a7d18d3.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_110_15_3",
+    "lower_bound": 7,
+    "upper_bound": 7,
+    "initial_path": "./scriptOutputs/satSolutions_270/random_instance_110_15_3.solution.json"
+  },
+  {
+    "instance_uid": "woc-230-tsplib-e7303a41",
+    "lower_bound": 20,
+    "upper_bound": 20,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-230-tsplib-e7303a41.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_995_320_10",
+    "lower_bound": 52,
+    "upper_bound": 52,
+    "initial_path": "./scriptOutputs/satSolutions_51/random_instance_995_320_10.solution.json"
+  },
+  {
+    "instance_uid": "woc-80-random-669f73a7",
+    "lower_bound": 25,
+    "upper_bound": 25,
+    "initial_path": "./scriptOutputs/satSolutions_200/woc-80-random-669f73a7.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_798_80_3",
+    "lower_bound": 9,
+    "upper_bound": 9,
+    "initial_path": "./scriptOutputs/satSolutions_99/random_instance_798_80_3.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_168_15_2",
+    "lower_bound": 1,
+    "upper_bound": 1,
+    "initial_path": "./scriptOutputs/satSolutions_275/random_instance_168_15_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-210-tsplib-70f2a9bf",
+    "lower_bound": 25,
+    "upper_bound": 25,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-210-tsplib-70f2a9bf.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_838_80_10",
+    "lower_bound": 29,
+    "upper_bound": 29,
+    "initial_path": "./scriptOutputs/satSolutions_199/random_instance_838_80_10.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_444_15_10",
+    "lower_bound": 23,
+    "upper_bound": 23,
+    "initial_path": "./scriptOutputs/satSolutions_164/random_instance_444_15_10.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_482_80_2",
+    "lower_bound": 8,
+    "upper_bound": 8,
+    "initial_path": "./scriptOutputs/currentBest/random_instance_482_80_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-225-tsplib-67fd0075",
+    "lower_bound": 53,
+    "upper_bound": 53,
+    "initial_path": "./scriptOutputs/satSolutions_71/woc-225-tsplib-67fd0075.solution.json"
+  },
+  {
+    "instance_uid": "woc-50-random-e56ec684",
+    "lower_bound": 13,
+    "upper_bound": 13,
+    "initial_path": "./scriptOutputs/satSolutions_164/woc-50-random-e56ec684.solution.json"
+  },
+  {
+    "instance_uid": "woc-240-tsplib-9d3c5249",
+    "lower_bound": 27,
+    "upper_bound": 27,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-240-tsplib-9d3c5249.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_78_40_10",
+    "lower_bound": 26,
+    "upper_bound": 26,
+    "initial_path": "./scriptOutputs/satSolutions_164/random_instance_78_40_10.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_204_80_20",
+    "lower_bound": 64,
+    "upper_bound": 64,
+    "initial_path": "./scriptOutputs/satSolutions_46/random_instance_204_80_20_3_3_2_3_3_3_3_4_4_4_4_4_3_3_2_4_3_2_3_4.solution.json"
+  },
+  {
+    "instance_uid": "woc-75-random-6e4b56b1",
+    "lower_bound": 25,
+    "upper_bound": 25,
+    "initial_path": "./scriptOutputs/satSolutions_201/woc-75-random-6e4b56b1.solution.json"
+  },
+  {
+    "instance_uid": "woc-45-random-8d641b9c",
+    "lower_bound": 27,
+    "upper_bound": 27,
+    "initial_path": "./scriptOutputs/satSolutions_164/woc-45-random-8d641b9c.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_213_80_20",
+    "lower_bound": 88,
+    "upper_bound": 88,
+    "initial_path": "./scriptOutputs/satSolutions_383/random_instance_213_80_20.solution.json"
+  },
+  {
+    "instance_uid": "woc-235-tsplib-681bdc27",
+    "lower_bound": 29,
+    "upper_bound": 29,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-235-tsplib-681bdc27.solution.json"
+  },
+  {
+    "instance_uid": "woc-130-tsplib-1db5c60e",
+    "lower_bound": 33,
+    "upper_bound": 33,
+    "initial_path": "./scriptOutputs/satSolutions_194/woc-130-tsplib-1db5c60e.solution.json"
+  },
+  {
+    "instance_uid": "woc-175-tsplib-c6fb5178",
+    "lower_bound": 55,
+    "upper_bound": 55,
+    "initial_path": "./scriptOutputs/satSolutions_71/woc-175-tsplib-c6fb5178.solution.json"
+  },
+  {
+    "instance_uid": "woc-165-tsplib-ddfc0df0",
+    "lower_bound": 0,
+    "upper_bound": 78,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_121/woc-165-tsplib-ddfc0df0.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_996_40_20",
+    "lower_bound": 74,
+    "upper_bound": 74,
+    "initial_path": "./scriptOutputs/satSolutions_43/random_instance_996_40_20_4_3_3_4_6_3_4_6_4_4_3_4_3_5_3_3_3_3_3_3.solution.json"
+  },
+  {
+    "instance_uid": "woc-60-tsplib-be375294",
+    "lower_bound": 34,
+    "upper_bound": 34,
+    "initial_path": "./scriptOutputs/satSolutions_201/woc-60-tsplib-be375294.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_292_15_20",
+    "lower_bound": 49,
+    "upper_bound": 49,
+    "initial_path": "./scriptOutputs/currentBest/random_instance_292_15_20.solution.json"
+  },
+  {
+    "instance_uid": "woc-120-random-62f49613",
+    "lower_bound": 23,
+    "upper_bound": 23,
+    "initial_path": "./scriptOutputs/satSolutions_202/woc-120-random-62f49613.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_605_80_20",
+    "lower_bound": 89,
+    "upper_bound": 89,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_163/random_instance_605_80_20.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_397_40_3",
+    "lower_bound": 9,
+    "upper_bound": 9,
+    "initial_path": "./scriptOutputs/satSolutions_270/random_instance_397_40_3.solution.json"
+  },
+  {
+    "instance_uid": "woc-80-tsplib-3ee3a8a5",
+    "lower_bound": 22,
+    "upper_bound": 22,
+    "initial_path": "./scriptOutputs/satSolutions_104/woc-80-tsplib-3ee3a8a5.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_600_320_3",
+    "lower_bound": 9,
+    "upper_bound": 9,
+    "initial_path": "./scriptOutputs/satSolutions_49/random_instance_600_320_3.solution.json"
+  },
+  {
+    "instance_uid": "woc-200-random-47e4a4fb",
+    "lower_bound": 37,
+    "upper_bound": 37,
+    "initial_path": "./scriptOutputs/satSolutions_44/woc-200-random-47e4a4fb_2_2_3_8_2_10_10.solution.json"
+  },
+  {
+    "instance_uid": "woc-205-tsplib-8670753b",
+    "lower_bound": 29,
+    "upper_bound": 29,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-205-tsplib-8670753b.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_16_15_2",
+    "lower_bound": 3,
+    "upper_bound": 3,
+    "initial_path": "./scriptOutputs/satSolutions_275/random_instance_16_15_2.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_440_160_20",
+    "lower_bound": 92,
+    "upper_bound": 92,
+    "initial_path": "./scriptOutputs/satSolutions_73/random_instance_440_160_20.solution.json"
+  },
+  {
+    "instance_uid": "woc-70-tsplib-8ae47929",
+    "lower_bound": 28,
+    "upper_bound": 28,
+    "initial_path": "./scriptOutputs/satSolutions_104/woc-70-tsplib-8ae47929.solution.json"
+  },
+  {
+    "instance_uid": "woc-240-tsplib-cb5aff34",
+    "lower_bound": 30,
+    "upper_bound": 30,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-240-tsplib-cb5aff34.solution.json"
+  },
+  {
+    "instance_uid": "woc-155-random-bcc5dff8",
+    "lower_bound": 19,
+    "upper_bound": 19,
+    "initial_path": "./scriptOutputs/satSolutions_38/woc-155-random-bcc5dff8.solution.json"
+  },
+  {
+    "instance_uid": "woc-230-tsplib-eb3e6717",
+    "lower_bound": 44,
+    "upper_bound": 44,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_69/woc-230-tsplib-eb3e6717.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_353_80_10",
+    "lower_bound": 37,
+    "upper_bound": 37,
+    "initial_path": "./scriptOutputs/satSolutions_201/random_instance_353_80_10.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_650_80_10",
+    "lower_bound": 43,
+    "upper_bound": 43,
+    "initial_path": "./scriptOutputs/satSolutions_201/random_instance_650_80_10.solution.json"
+  },
+  {
+    "instance_uid": "woc-140-random-61cc975f",
+    "lower_bound": 21,
+    "upper_bound": 21,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_107/woc-140-random-61cc975f.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_225_160_3",
+    "lower_bound": 10,
+    "upper_bound": 10,
+    "initial_path": "./scriptOutputs/satSolutions_166/random_instance_225_160_3.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_83_160_10",
+    "lower_bound": 44,
+    "upper_bound": 44,
+    "initial_path": "./scriptOutputs/satSolutions_48/random_instance_83_160_10_4_4_4_4_5_6_4_4_5_4.solution.json"
+  },
+  {
+    "instance_uid": "woc-160-tsplib-52412885",
+    "lower_bound": 26,
+    "upper_bound": 26,
+    "initial_path": "./scriptOutputs/satSolutions_38/woc-160-tsplib-52412885.solution.json"
+  },
+  {
+    "instance_uid": "woc-165-tsplib-29bc5916",
+    "lower_bound": 45,
+    "upper_bound": 45,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_68/woc-165-tsplib-29bc5916.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_823_320_3",
+    "lower_bound": 14,
+    "upper_bound": 14,
+    "initial_path": "./scriptOutputs/satSolutions_51/random_instance_823_320_3.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_891_15_20",
+    "lower_bound": 56,
+    "upper_bound": 56,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_140/random_instance_891_15_20.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_881_320_10",
+    "lower_bound": 50,
+    "upper_bound": 50,
+    "initial_path": "./scriptOutputs/satSolutions_51/random_instance_881_320_10.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_111_15_2",
+    "lower_bound": 5,
+    "upper_bound": 5,
+    "initial_path": "./scriptOutputs/satSolutions_275/random_instance_111_15_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-190-random-f504e4b7",
+    "lower_bound": 39,
+    "upper_bound": 39,
+    "initial_path": "./scriptOutputs/satSolutions_44/woc-190-random-f504e4b7_2_2_11_11_4_7_2.solution.json"
+  },
+  {
+    "instance_uid": "woc-220-random-95a3b25a",
+    "lower_bound": 29,
+    "upper_bound": 29,
+    "initial_path": "./scriptOutputs/satSolutions_58/woc-220-random-95a3b25a.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_840_15_3",
+    "lower_bound": 8,
+    "upper_bound": 8,
+    "initial_path": "./scriptOutputs/satSolutions_270/random_instance_840_15_3.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_351_320_5",
+    "lower_bound": 24,
+    "upper_bound": 24,
+    "initial_path": "./scriptOutputs/satSolutions_51/random_instance_351_320_5.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_946_40_20",
+    "lower_bound": 59,
+    "upper_bound": 59,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_240/random_instance_946_40_20.solution.json"
+  },
+  {
+    "instance_uid": "woc-50-tsplib-037ddc15",
+    "lower_bound": 22,
+    "upper_bound": 22,
+    "initial_path": "./scriptOutputs/satSolutions_164/woc-50-tsplib-037ddc15.solution.json"
+  },
+  {
+    "instance_uid": "woc-90-tsplib-96a321d8",
+    "lower_bound": 19,
+    "upper_bound": 19,
+    "initial_path": "./scriptOutputs/satSolutions_202/woc-90-tsplib-96a321d8.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_771_15_20",
+    "lower_bound": 51,
+    "upper_bound": 51,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_140/random_instance_771_15_20.solution.json"
+  },
+  {
+    "instance_uid": "woc-210-tsplib-98198d20",
+    "lower_bound": 24,
+    "upper_bound": 24,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-210-tsplib-98198d20.solution.json"
+  },
+  {
+    "instance_uid": "woc-100-random-2388911d",
+    "lower_bound": 29,
+    "upper_bound": 29,
+    "initial_path": "./scriptOutputs/satSolutions_202/woc-100-random-2388911d.solution.json"
+  },
+  {
+    "instance_uid": "woc-180-tsplib-e56aa880",
+    "lower_bound": 33,
+    "upper_bound": 33,
+    "initial_path": "./scriptOutputs/satSolutions_38/woc-180-tsplib-e56aa880.solution.json"
+  },
+  {
+    "instance_uid": "woc-205-random-769696fb",
+    "lower_bound": 21,
+    "upper_bound": 21,
+    "initial_path": "./scriptOutputs/satSolutions_49/woc-205-random-769696fb.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_900_40_20",
+    "lower_bound": 66,
+    "upper_bound": 66,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_239/random_instance_900_40_20.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_51_80_3",
+    "lower_bound": 14,
+    "upper_bound": 14,
+    "initial_path": "./scriptOutputs/satSolutions_99/random_instance_51_80_3.solution.json"
+  },
+  {
+    "instance_uid": "woc-195-tsplib-8aa5fdc6",
+    "lower_bound": 41,
+    "upper_bound": 41,
+    "initial_path": "./scriptOutputs/satSolutions_49/woc-195-tsplib-8aa5fdc6_10_3_8_10_3_3_4.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_668_160_5",
+    "lower_bound": 24,
+    "upper_bound": 24,
+    "initial_path": "./scriptOutputs/satSolutions_38/random_instance_668_160_5.solution.json"
+  },
+  {
+    "instance_uid": "woc-215-random-057a9f3f",
+    "lower_bound": 30,
+    "upper_bound": 30,
+    "initial_path": "./scriptOutputs/satSolutions_51/woc-215-random-057a9f3f.solution.json"
+  },
+  {
+    "instance_uid": "woc-195-random-a5467698",
+    "lower_bound": 32,
+    "upper_bound": 32,
+    "initial_path": "./scriptOutputs/satSolutions_49/woc-195-random-a5467698.solution.json"
+  },
+  {
+    "instance_uid": "woc-175-random-1f37ea2a",
+    "lower_bound": 33,
+    "upper_bound": 33,
+    "initial_path": "./scriptOutputs/satSolutions_38/woc-175-random-1f37ea2a.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_132_80_20",
+    "lower_bound": 73,
+    "upper_bound": 73,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_171/random_instance_132_80_20.solution.json"
+  },
+  {
+    "instance_uid": "random_instance_402_80_20",
+    "lower_bound": 88,
+    "upper_bound": 88,
+    "initial_path": "/fastStorage/scriptOutputs/satSolutions_169/random_instance_402_80_20.solution.json"
+  },
+  {
+    "instance_uid": "example_ps_200_nt16_pfd40_random",
+    "lower_bound": 0,
+    "upper_bound": 80,
+    "initial_path": "./outputFiles/example_ps_200_nt16_pfd40_random_sat_dist5_0.json"
+  },
+  {
+    "instance_uid": "example_ps_50_nt4_pfd10_random",
+    "lower_bound": 0,
+    "upper_bound": 12,
+    "initial_path": "./outputFiles/example_ps_50_nt4_pfd10_random_out3.json"
+  },
+  {
+    "instance_uid": "example_ps_20_nt2_pfd5_random",
+    "lower_bound": 0,
+    "upper_bound": 3,
+    "initial_path": "./outputFiles/example_ps_20_nt2_pfd5_random_out7.json"
+  },
+  {
+    "instance_uid": "rirs-12500-100-0c057cab",
+    "lower_bound": 0,
+    "upper_bound": 1671,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_59/rirs-12500-100-0c057cab.solution.json"
+  },
+  {
+    "instance_uid": "example_ps_20_nt2_pfd5_tsplib",
+    "lower_bound": 0,
+    "upper_bound": 2,
+    "initial_path": "./outputFiles/example_ps_20_nt2_pfd5_tsplib_sat_dist2_5.json"
+  },
+  {
+    "instance_uid": "rirs-1000-75-50e9d715",
+    "lower_bound": 0,
+    "upper_bound": 897,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_164/rirs-1000-75-50e9d715.solution.json"
+  },
+  {
+    "instance_uid": "example_ps_200_nt16_pfd40_tsplib",
+    "lower_bound": 0,
+    "upper_bound": 100,
+    "initial_path": "./outputFiles/example_ps_200_nt16_pfd40_tsplib_out6.json"
+  },
+  {
+    "instance_uid": "rirs-2000-20-fc840c19",
+    "lower_bound": 0,
+    "upper_bound": 262,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_117/rirs-2000-20-fc840c19.solution.json"
+  },
+  {
+    "instance_uid": "example_ps_100_nt8_pfd20_tsplib",
+    "lower_bound": 0,
+    "upper_bound": 35,
+    "initial_path": "./outputFiles/example_ps_100_nt8_pfd20_tsplib_out3.json"
+  },
+  {
+    "instance_uid": "example_ps_50_nt4_pfd10_tsplib",
+    "lower_bound": 0,
+    "upper_bound": 12,
+    "initial_path": "./outputFiles/example_ps_50_nt4_pfd10_tsplib_sat_dist3_0.json"
+  },
+  {
+    "instance_uid": "example_ps_100_nt8_pfd20_random",
+    "lower_bound": 0,
+    "upper_bound": 32,
+    "initial_path": "./outputFiles/example_ps_100_nt8_pfd20_random_sat_dist4_0.json"
+  },
+  {
+    "instance_uid": "rirs-1000-20-ee506ff1",
+    "lower_bound": 0,
+    "upper_bound": 226,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_105/rirs-1000-20-ee506ff1.solution.json"
+  },
+  {
+    "instance_uid": "rirs-6000-20-cc3d0e5d",
+    "lower_bound": 0,
+    "upper_bound": 298,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_157/rirs-6000-20-cc3d0e5d.solution.json"
+  },
+  {
+    "instance_uid": "rirs-3500-75-0ba3f101",
+    "lower_bound": 0,
+    "upper_bound": 1088,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-3500-75-0ba3f101.solution.json"
+  },
+  {
+    "instance_uid": "rirs-500-20-5e21448d",
+    "lower_bound": 0,
+    "upper_bound": 196,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_73/rirs-500-20-5e21448d.solution.json"
+  },
+  {
+    "instance_uid": "rirs-7000-20-37c47d14",
+    "lower_bound": 0,
+    "upper_bound": 308,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_154/rirs-7000-20-37c47d14.solution.json"
+  },
+  {
+    "instance_uid": "rirs-12500-50-7f3b2926",
+    "lower_bound": 0,
+    "upper_bound": 837,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-12500-50-7f3b2926.solution.json"
+  },
+  {
+    "instance_uid": "rirs-4500-20-fe859874",
+    "lower_bound": 0,
+    "upper_bound": 297,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_133/rirs-4500-20-fe859874.solution.json"
+  },
+  {
+    "instance_uid": "rirs-6000-75-3640423c",
+    "lower_bound": 0,
+    "upper_bound": 1137,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-6000-75-3640423c.solution.json"
+  },
+  {
+    "instance_uid": "rirs-3000-50-69fe82ea",
+    "lower_bound": 0,
+    "upper_bound": 707,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-3000-50-69fe82ea.solution.json"
+  },
+  {
+    "instance_uid": "rirs-1500-20-abcb179b",
+    "lower_bound": 0,
+    "upper_bound": 252,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_106/rirs-1500-20-abcb179b.solution.json"
+  },
+  {
+    "instance_uid": "rirs-2500-75-fe6940e6",
+    "lower_bound": 0,
+    "upper_bound": 1041,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-2500-75-fe6940e6.solution.json"
+  },
+  {
+    "instance_uid": "rirs-10000-50-918ee15c",
+    "lower_bound": 0,
+    "upper_bound": 815,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-10000-50-918ee15c.solution.json"
+  },
+  {
+    "instance_uid": "rirs-10000-20-85b95253",
+    "lower_bound": 0,
+    "upper_bound": 318,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-10000-20-85b95253.solution.json"
+  },
+  {
+    "instance_uid": "rirs-2000-75-42f0456a",
+    "lower_bound": 0,
+    "upper_bound": 1006,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-2000-75-42f0456a.solution.json"
+  },
+  {
+    "instance_uid": "rirs-4000-20-65a95787",
+    "lower_bound": 0,
+    "upper_bound": 289,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_133/rirs-4000-20-65a95787.solution.json"
+  },
+  {
+    "instance_uid": "rirs-5000-20-2caf288b",
+    "lower_bound": 0,
+    "upper_bound": 285,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_143/rirs-5000-20-2caf288b.solution.json"
+  },
+  {
+    "instance_uid": "rirs-4500-50-745c57a2",
+    "lower_bound": 0,
+    "upper_bound": 746,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-4500-50-745c57a2.solution.json"
+  },
+  {
+    "instance_uid": "rirs-4000-75-1629c45a",
+    "lower_bound": 0,
+    "upper_bound": 1107,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-4000-75-1629c45a.solution.json"
+  },
+  {
+    "instance_uid": "rirs-2000-50-5fa13e78",
+    "lower_bound": 0,
+    "upper_bound": 654,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_163/rirs-2000-50-5fa13e78.solution.json"
+  },
+  {
+    "instance_uid": "rirs-12500-75-2ef068ba",
+    "lower_bound": 0,
+    "upper_bound": 1263,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_59/rirs-12500-75-2ef068ba.solution.json"
+  },
+  {
+    "instance_uid": "rirs-1000-50-efb3c1bd",
+    "lower_bound": 0,
+    "upper_bound": 585,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_145/rirs-1000-50-efb3c1bd.solution.json"
+  },
+  {
+    "instance_uid": "rirs-3000-20-ca4a729f",
+    "lower_bound": 0,
+    "upper_bound": 279,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_119/rirs-3000-20-ca4a729f.solution.json"
+  },
+  {
+    "instance_uid": "rirs-4500-75-ea9f0323",
+    "lower_bound": 0,
+    "upper_bound": 1125,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-4500-75-ea9f0323.solution.json"
+  },
+  {
+    "instance_uid": "rirs-9000-75-940659a6",
+    "lower_bound": 0,
+    "upper_bound": 1216,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-9000-75-940659a6.solution.json"
+  },
+  {
+    "instance_uid": "rirs-8000-50-b9e2ae77",
+    "lower_bound": 0,
+    "upper_bound": 795,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-8000-50-b9e2ae77.solution.json"
+  },
+  {
+    "instance_uid": "rirs-12500-20-dd322248",
+    "lower_bound": 0,
+    "upper_bound": 334,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-12500-20-dd322248.solution.json"
+  },
+  {
+    "instance_uid": "rirs-2500-50-16465e74",
+    "lower_bound": 0,
+    "upper_bound": 674,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_163/rirs-2500-50-16465e74.solution.json"
+  },
+  {
+    "instance_uid": "rirs-9000-50-0a55dbb8",
+    "lower_bound": 0,
+    "upper_bound": 819,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-9000-50-0a55dbb8.solution.json"
+  },
+  {
+    "instance_uid": "rirs-500-50-23d00ec5",
+    "lower_bound": 0,
+    "upper_bound": 504,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_46/rirs-500-50-23d00ec5.solution.json"
+  },
+  {
+    "instance_uid": "rirs-1500-75-10c039f8",
+    "lower_bound": 0,
+    "upper_bound": 945,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_163/rirs-1500-75-10c039f8.solution.json"
+  },
+  {
+    "instance_uid": "rirs-1500-50-49040875",
+    "lower_bound": 0,
+    "upper_bound": 616,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_163/rirs-1500-50-49040875.solution.json"
+  },
+  {
+    "instance_uid": "rirs-2500-20-70c6d643",
+    "lower_bound": 0,
+    "upper_bound": 273,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_119/rirs-2500-20-70c6d643.solution.json"
+  },
+  {
+    "instance_uid": "rirs-3000-75-d0dd4d29",
+    "lower_bound": 0,
+    "upper_bound": 1058,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-3000-75-d0dd4d29.solution.json"
+  },
+  {
+    "instance_uid": "rirs-3500-20-36165067",
+    "lower_bound": 0,
+    "upper_bound": 281,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_133/rirs-3500-20-36165067.solution.json"
+  },
+  {
+    "instance_uid": "rirs-3500-50-cd1647e4",
+    "lower_bound": 0,
+    "upper_bound": 717,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-3500-50-cd1647e4.solution.json"
+  },
+  {
+    "instance_uid": "rirs-4000-50-b142e8e4",
+    "lower_bound": 0,
+    "upper_bound": 731,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-4000-50-b142e8e4.solution.json"
+  },
+  {
+    "instance_uid": "rirs-5000-50-2ec37111",
+    "lower_bound": 0,
+    "upper_bound": 758,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-5000-50-2ec37111.solution.json"
+  },
+  {
+    "instance_uid": "rirs-5000-75-9bd3bd51",
+    "lower_bound": 0,
+    "upper_bound": 1137,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-5000-75-9bd3bd51.solution.json"
+  },
+  {
+    "instance_uid": "rirs-6000-50-3c632805",
+    "lower_bound": 0,
+    "upper_bound": 773,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-6000-50-3c632805.solution.json"
+  },
+  {
+    "instance_uid": "rirs-7000-75-98ec3d45",
+    "lower_bound": 0,
+    "upper_bound": 1176,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-7000-75-98ec3d45.solution.json"
+  },
+  {
+    "instance_uid": "rirs-8000-75-b95969e5",
+    "lower_bound": 0,
+    "upper_bound": 1186,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-8000-75-b95969e5.solution.json"
+  },
+  {
+    "instance_uid": "rirs-8000-20-8357ef0f",
+    "lower_bound": 0,
+    "upper_bound": 303,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_154/rirs-8000-20-8357ef0f.solution.json"
+  },
+  {
+    "instance_uid": "rirs-9000-20-41491eba",
+    "lower_bound": 0,
+    "upper_bound": 324,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-9000-20-41491eba.solution.json"
+  },
+  {
+    "instance_uid": "rirs-10000-75-08dd7dc1",
+    "lower_bound": 0,
+    "upper_bound": 1232,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_49/rirs-10000-75-08dd7dc1.solution.json"
+  },
+  {
+    "instance_uid": "rirs-12500-200-e8ac0d06",
+    "lower_bound": 0,
+    "upper_bound": 3379,
+    "initial_path": "/fastStorage/scriptOutputs/heuristicSolutions_86/rirs-12500-200-e8ac0d06.solution.json"
+  }
+]}

@@ -1,0 +1,3 @@
+C:/Users/marko/CLionProjects/two_triangulations/cmake-build-debug/CMakeFiles/two_triangulations.dir
+C:/Users/marko/CLionProjects/two_triangulations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marko/CLionProjects/two_triangulations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

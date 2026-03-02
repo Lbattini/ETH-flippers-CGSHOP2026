@@ -1,0 +1,5 @@
+# ninja log v5
+14	1432	7828499867061370	build.ninja	70d14a0a90f12e9d
+9	15815	7827442843681439	CMakeFiles/two_triangulations.dir/tests/main_tests.cpp.obj	ca10599da6fb276c
+13	16944	7822521275433578	CMakeFiles/two_triangulations.dir/main.cpp.obj	a32bccadf2d6c437
+15817	22203	7827442907981090	two_triangulations.exe	88494287b0056472
