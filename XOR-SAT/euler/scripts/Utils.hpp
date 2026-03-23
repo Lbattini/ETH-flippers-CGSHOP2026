@@ -118,7 +118,7 @@ double cross(const Point& a, const Point& b, const Point& c) {
     return orient(a, b, c);
 }
 
-bool isConvexQuadrilateral(std::vector<Point> p) {
+bool isConvexQuadrilateral(vector<Point> p) {
     if (p.size() != 4) return false;
 
     // ---- Compute convex hull (Graham scan for 4 points) ----
@@ -129,11 +129,11 @@ bool isConvexQuadrilateral(std::vector<Point> p) {
             (p[i].y == p[start].y && p[i].x < p[start].x))
             start = i;
     }
-    std::swap(p[0], p[start]);
+    swap(p[0], p[start]);
     Point base = p[0];
 
     // Sort by polar angle around base
-    std::sort(p.begin() + 1, p.end(), [&](const Point& a, const Point& b) {
+    sort(p.begin() + 1, p.end(), [&](const Point& a, const Point& b) {
         double o = orient(base, a, b);
         if (o == 0) {
             // closer one first
@@ -145,7 +145,7 @@ bool isConvexQuadrilateral(std::vector<Point> p) {
     });
 
     // Build hull
-    std::vector<Point> h;
+    vector<Point> h;
     for (auto &pt : p) {
         while (h.size() >= 2 && orient(h[h.size()-2], h.back(), pt) <= 0)
             h.pop_back();
@@ -155,7 +155,7 @@ bool isConvexQuadrilateral(std::vector<Point> p) {
     // Hull must contain all 4 points to form a convex quadrilateral
     if (h.size() != 4) return false;
 
-    // ---- Check all turns have same orientation sign ----
+    // Check all turns have same orientation sign
     bool all_pos = true, all_neg = true;
 
     for (int i = 0; i < 4; i++) {
@@ -196,7 +196,7 @@ vector<Point> convexOrder4(vector<Point> p) {
              return o > 0; // CCW first
          });
 
-    // Step 3: Graham-style hull (should return size 4 for convex quad)
+    // Step 3: Graham hull (should return size 4 for convex quad)
     vector<Point> h;
     for (auto& pt : p) {
         while (h.size() >= 2 && orient(h[h.size()-2], h.back(), pt) <= 0)
@@ -227,7 +227,7 @@ bool pointInConvexQuadOrdered(const Point& p, const vector<Point>& q) {
             double dot1 = (p.x - a.x) * (b.x - a.x) + (p.y - a.y) * (b.y - a.y);
             double dot2 = (p.x - b.x) * (a.x - b.x) + (p.y - b.y) * (a.y - b.y);
             if (dot1 >= 0 && dot2 >= 0)
-                continue;  // on edge → inside
+                continue;  // on edge means inside
             else
                 return false;
         }
@@ -393,7 +393,7 @@ vector<Quadrilateral> findAllQuadrilateralsSuperFast(Triangulation T) {
     vector<vector<vector<int>>> t(n, vector<vector<int>>(n));
 
     // ============================
-    // 1) PRAZNI TROUGLOVI (PARALELNO, BEZ LOCK-A)
+    // 1) EMPTY TRIANGLES (PARALLEL, NO LOCK)
     // ============================
 
     int P = omp_get_max_threads();
@@ -423,7 +423,7 @@ vector<Quadrilateral> findAllQuadrilateralsSuperFast(Triangulation T) {
         }
     }
 
-    // --- merge t_local -> t (sekvencijalno, jeftino)
+    // --- merge t_local -> t (seq)
     for (int tid = 0; tid < P; ++tid) {
         for (int i = 0; i < n; ++i) {
             for (int j = 0; j < n; ++j) {
@@ -437,7 +437,7 @@ vector<Quadrilateral> findAllQuadrilateralsSuperFast(Triangulation T) {
     }
 
     // ============================
-    // 2) SPAJANJE U ČETVOROUGLOVE (PARALELNO)
+    // 2) MERGE INTO QUADRILATERALS (PARALLEL)
     // ============================
 
     vector<Quadrilateral> q;

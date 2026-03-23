@@ -1,5 +1,0 @@
-0 5
-1 4
-Number of clauses 371196
-Number of variables 126531
-Time: 2978325

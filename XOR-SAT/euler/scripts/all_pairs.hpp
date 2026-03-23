@@ -267,7 +267,7 @@ void formulate(Triangulation A, int k, string path, string edge_path, string inp
                         for (int i = 0; i < len; ++i) {
                             for (int j = i + 1; j < len; ++j) {
                                 //clause(-f[conf_qs[i]][t], -f[conf_qs[j]][t]);
-                                out_buf += to_string(-f[upd_conf_qs[i]][t]) + "  " + std::to_string(-f[upd_conf_qs[j]][t]) + " 0\n";
+                                out_buf += to_string(-f[upd_conf_qs[i]][t]) + "  " + to_string(-f[upd_conf_qs[j]][t]) + " 0\n";
                                 clause_cnt++;
                             }
                         }
