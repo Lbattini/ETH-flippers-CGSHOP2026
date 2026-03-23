@@ -765,10 +765,8 @@ if __name__ == '__main__':
   os.mkdir(idxDir)
   os.mkdir(outDir)
   os.mkdir(assignmentDir)
-  executablePath="cmake-build-release/centralTriangulationClion"
-  # executablePath="./centralTriangulationClion"
-  #satSolverPath="../kissat/build/kissat"
-  satSolverPath="./build/mallob"
+  executablePath="./centralTriangulation"
+  satSolverPath="../kissat/build/kissat"
   cnt=0
   executionStatsFile=outDir+"values.out"
 
@@ -799,9 +797,9 @@ if __name__ == '__main__':
       instance_uid=data["instance_uid"]
       # print(instance_uid+' '+str(n)+' '+str(m))
 
-      if instance_uid=="woc-230-tsplib-32634ca5": #instance_uid!="woc-185-tsplib-b8dd6b77" and (n<=maxN or ( instance_uid in upperBoundDict and upperBoundDict[instance_uid]<=1*m)) and m<=maxM: #and (instance_uid in lowerBoundDict and lowerBoundDict[instance_uid]==upperBoundDict[instance_uid]):#(n<=320 and m==2) or (n<=15 and m<=10) or (n<=160 and m<=3) or (n<=60 and m<=10):# or upperBoundDict[instance_uid]<20:
+      if n==15 or instance_uid=="woc-230-tsplib-32634ca5": #instance_uid!="woc-185-tsplib-b8dd6b77" and (n<=maxN or ( instance_uid in upperBoundDict and upperBoundDict[instance_uid]<=1*m)) and m<=maxM: #and (instance_uid in lowerBoundDict and lowerBoundDict[instance_uid]==upperBoundDict[instance_uid]):#(n<=320 and m==2) or (n<=15 and m<=10) or (n<=160 and m<=3) or (n<=60 and m<=10):# or upperBoundDict[instance_uid]<20:
         #lowerBoundDict[instance_uid]=0
-        if (not instance_uid in lowerBoundDict) or lowerBoundDict[instance_uid]<upperBoundDict[instance_uid]:
+        if True or (not instance_uid in lowerBoundDict) or lowerBoundDict[instance_uid]<upperBoundDict[instance_uid]:
           instancesToSolve.append(inFile)
           cntSolved+=1
   print("Number of instances to solve: "+str(len(instancesToSolve)))

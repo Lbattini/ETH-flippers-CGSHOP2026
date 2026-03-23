@@ -668,7 +668,7 @@ if __name__ == '__main__':
   os.mkdir(idxDir)
   os.mkdir(outDir)
   os.mkdir(assignmentDir)
-  executablePath="cmake-build-release/centralTriangulationClion"
+  executablePath="./centralTriangulation"
   #satSolverPath="../kissat/build/kissat"
   satSolverPath="./build/mallob"
   cnt=0

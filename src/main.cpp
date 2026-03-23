@@ -614,7 +614,7 @@ int main(int argc, char * argv[]) {
                     totDistance=totDistanceVec[center];
                     flipsPerRound=curFlips[center];
                     if (verbose)
-                      std::cout<<"With center "<<center<<" the pfd is "<<totDistanceFromCenter<<'\n';
+                      std::cout<<"With center "<<center<<" the pfd is "<<totDistance<<'\n';
                   }
                 }
 

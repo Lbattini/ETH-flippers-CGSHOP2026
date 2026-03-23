@@ -76,7 +76,7 @@ initialPathDict=dict()
 readCurrentBest(lowerBoundDict,upperBoundDict,initialPathDict,optValuesFileName)
 inDir="../benchmark_instances_rev1/benchmark_instances/"
 
-executablePath="cmake-build-release/centralTriangulationClion"
+executablePath="./centralTriangulation"
 i=0
 strategy="reduceItsCenters"
 cnt=0
@@ -87,8 +87,8 @@ executionStatsFile=outDir+"values.out"
 #   executionStatsFile=out+"values_"+str(i)+".out"
 #executionStatsFiles=outFolder+"values"+str(i)+a
 filesToSolveWithKey=[]
-maxN=500
-minN=9000
+maxN=200
+minN=10
 for inFile in sorted(os.listdir(inDir),key=custom_sort_key):
   if(inFile.endswith(".json")):
   #if (inFile.startswith("rirs")) and (inFile.endswith(".json")):
@@ -99,11 +99,11 @@ for inFile in sorted(os.listdir(inDir),key=custom_sort_key):
     m=len(data["triangulations"])
     instance_uid=data["instance_uid"] 
     #print(instance_uid)
-    print(upperBoundDict[instance_uid])
-    if False and ((not instance_uid in lowerBoundDict) or lowerBoundDict[instance_uid]<upperBoundDict[instance_uid]):
+    #print(upperBoundDict[instance_uid])
+    if ((not instance_uid in lowerBoundDict) or lowerBoundDict[instance_uid]<upperBoundDict[instance_uid]):
       #print(upperBoundDict[instance_uid])
       #print(instance_uid+" n: "+str(n)+" m: "+str(m)+"lower bound: "+str(lowerBoundDict[instance_uid])+" upper bound: "+str(upperBoundDict[instance_uid])+" "+str(upperBoundDict[instance_uid]/m))
-      if (n>=minN and m==20) or (n>=3000 and m==50) or (n>2500 and m==75): #n==12500 and m==200: #n<=maxN and m==20
+      if n<=maxN: #(n>=minN and m==20) or (n>=3000 and m==50) or (n>2500 and m==75): #n==12500 and m==200: #n<=maxN and m==20
         filesToSolveWithKey.append([n*m,inFile])
 filesToSolveWithKey.sort(key=lambda fileWithKey : fileWithKey[0])
 cnt=0
