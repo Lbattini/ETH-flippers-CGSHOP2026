@@ -1,8 +1,7 @@
 Repository for our solutions of CGSHOP2026: Central Triangulation under Parallel Flip Operations.
  
 
-For further information, see the paper "ETH Flippers Approach to Parallel Reconfiguration
-of Triangulations: SAT formulation and Heuristics" (L. Battini, M. Milenković, 2026) on arxiv (to be released).
+For further information, see the paper "ETH Flippers Approach to Parallel Reconfiguration of Triangulations: SAT formulation and Heuristics" (L. Battini, M. Milenković, 2026) on arxiv (to be released).
 
 See the XOR-SAT folder for the XOR-SAT formulation, and how to use it. 
 The two\_triangulations folder contains an implementation of the paper "Simultaneous edge flipping in triangulations" (J Galtier, F Hurtado, M Noy, S Pérennes, J Urrutia, 2003), which was not used in the competition because the resulting solutions are not good.
